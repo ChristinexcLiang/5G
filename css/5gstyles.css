@@ -1,6 +1,6 @@
 body {
   padding-top: 5rem;
-  background-image:url(../images/BG-image.jpg);
+  background-image:url("../images/BG-image.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
